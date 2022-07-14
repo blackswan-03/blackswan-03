@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blackswan-03
 - 👀 I’m interested in learning IT skills
-- 🌱 I’m currently learning web3 fundamentals such as ENS & IPFS as well as JS
+- 🌱 I’m currently learning web3 fundamentals such as ENS & IPFS as well as JS and Solidity
 - 💞️ I’m looking to collaborate with my IT mentors at the eth.limo project
 - 📫 I'm available at Discord and at Keybase
