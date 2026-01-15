@@ -16,9 +16,9 @@
   - [Operating Systems Website](https://github.com/blackswan-03/Operating_Systems_Website)
 - <b>More to come😉</b>
 
-<h2>📺 YouTube Video Walkthroughs (Coming Soon)</h2>
+<h2>📺 YouTube Video Walkthroughs (More Coming Soon):</h2>
 
-- <!-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) -->
+- [Jupyter ML Student Exam Score Predictor](https://youtu.be/nITm1tEzeyo)
 
 <h2> 🤳 Connect with me:</h2>
 
