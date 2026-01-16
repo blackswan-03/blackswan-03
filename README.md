@@ -19,6 +19,7 @@
 <h2>📺 YouTube Video Walkthroughs (More Coming Soon):</h2>
 
 - [Jupyter ML Student Exam Score Predictor](https://youtu.be/nITm1tEzeyo)
+- [WGUPS Package Delivery Program](https://youtu.be/eK48pN8pxvc)
 
 <h2> 🤳 Connect with me:</h2>
 
